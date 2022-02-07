@@ -1,0 +1,5 @@
+feijao -> comprado
+leite -> comprado
+ovos -> comprado
+arroz -> comprado
+farinha -> comprado

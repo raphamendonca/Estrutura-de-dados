@@ -1,0 +1,32 @@
+
+O
+java:S1854
+"9Remove this useless assignment to local variable "aluno".(â‹†Ï
+@
+java:S1481
+"*Remove this unused "aluno" local variable.(â‹†Ï
+K
+java:S1481"0Remove this unused "ultimaChave" local variable.(‰ÉÓ»úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¥ô®òúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Àéª‰ùÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(‰Âðë
+S	java:S106."9Replace this use of System.out or System.err by a logger.(”ôÙŸúÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(êÇ…²
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(‰Âðë
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(”ôÙŸúÿÿÿÿ
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(êÇ…²8šÔê“ë/
+X	java:S1258"<This block of commented-out lines of code should be removed.(¼ÝèÝ8«åä“ë/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(‰Âðë8Û¨ë“ë/
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8Ü¨ë“ë/
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(‰Âðë8ÿ¼ë“ë/
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8¬åä“ë/
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8¬åä“ë/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¯š†
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÜÜ¾üÿÿÿÿ
+o
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß¼£¤

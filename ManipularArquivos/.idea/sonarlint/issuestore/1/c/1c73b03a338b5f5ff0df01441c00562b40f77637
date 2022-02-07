@@ -1,0 +1,13 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "outputPath".(Ò·úëûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Á˜Î¤
+J
+java:S1481"/Remove this unused "outputPath" local variable.(Ò·úëûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(òæÜİşÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(µÑ€ıÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ø§ò°
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ØÁ—­şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œì‰ùÿÿÿÿ
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ô­Çìıÿÿÿÿ

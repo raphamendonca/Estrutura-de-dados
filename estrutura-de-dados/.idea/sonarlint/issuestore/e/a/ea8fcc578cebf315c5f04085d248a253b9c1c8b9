@@ -1,0 +1,19 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‚š‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ôÙŸúÿÿÿÿ8Ü²¢™ê/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©Ûı¡8Íâ£™ê/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùï‹Úÿÿÿÿÿ8Ï‹¥™ê/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ùï‹Úÿÿÿÿÿ8…Á®™ê/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(•ĞÊøıÿÿÿÿ8®¶™ê/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ùï‹Úÿÿÿÿÿ8­œ¸™ê/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(©Ûı¡8ÿº½™ê/
+X	java:S125)"<This block of commented-out lines of code should be removed.( ìº 8Ğ‹¥™ê/
+]	java:S125-"<This block of commented-out lines of code should be removed.(¶ùÜäşÿÿÿÿ8÷Ğ¯™ê/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¦´”™ê/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¦´”™ê/
+f
+java:S1128"DRemove this unused import 'java.util.concurrent.ArrayBlockingQueue'.(ÜÙ×Ëúÿÿÿÿ8§´”™ê/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Áç¤

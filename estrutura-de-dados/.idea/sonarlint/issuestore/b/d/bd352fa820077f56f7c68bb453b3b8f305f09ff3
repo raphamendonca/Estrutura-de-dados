@@ -1,0 +1,12 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—éùÖøÿÿÿÿ
+J
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(Õ±ÊÛ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶áÖèıÿÿÿÿ
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(Õ±ÊÛ8¥Úƒóé/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶áÖèıÿÿÿÿ8¥Úƒóé/
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(™¥¨©

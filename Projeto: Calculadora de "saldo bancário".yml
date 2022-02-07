@@ -1,0 +1,38 @@
+Projeto: Calculadora de "saldo bancário" com base num arquivo texto contendo uma relação de operações bancárias (simplificadas)
+
+Dado um arquivo texto com uma relação de operações bancárias realizadas. Faça uma aplicação que leia esse arquivo, agrupe as operações por conta bancária(id) e ordene por data da operação(dataHoraOperacao) de forma crescente. Após essas operações, a aplicação deverá executar as operações e calcular o saldo final. Por fim, deverá gerar um arquivo texto (um extrato) por conta bancária listando a relação de operações executadas e o saldo final. Obs.: se houver operação em duplicata, isto é, se todos os dados da operação forem idênticos inclusive a data/hora, o registro duplicado deverá ser descartado.
+Todas as contas iniciam zeradas. O saldo final pode ficar negativo.
+
+Segue o (pseudo) modelo:
+OperacaoBancaria:
+- operador: nome de quem está realizando a operação
+- tipo: tipo da operação (SAQUE/DEPOSITO)
+- valor: valor da operação
+- dataHoraOperacao: data da operação
+- contaBancaria:
+	- id: identificador da conta bancaria
+	- banco: identificador numerico do banco 
+	- agencia: identificador da agencia bancaria
+	- conta: numero da conta que será movimentada
+
+
+Requisitos obrigatórios:
+- o arquivo contendo as operações bancárias será fornecido pelo professor (registros desordenados)
+- aplicar princípios de OO
+- utilizar uma ferramenta de build/gerenciador de pacotes: Maven ou Gradle
+- utilizar ao menos 2 dependências
+- utilizar ao menos 2 estruturas de dados diferentes
+
+Requisitos desejáveis (não obrigatórios):
+- desenvolver a aplicação de forma flexível:
+	- para permitir que o input de dados não venha necessariamente de um arquivo texto
+	- para que a escrita de dados não ocorra necessariamente em arquivo texto
+- realizar o deploy do artefato em repositório remoto
+
+Itens avaliados:
+- ferramenta de build/gerenciador de pacotes
+- uso de dependencias
+- estrutura de dados
+- ordenação
+- manipulação de arquivos (leitura e escrita)
+- fundamentos de OO
