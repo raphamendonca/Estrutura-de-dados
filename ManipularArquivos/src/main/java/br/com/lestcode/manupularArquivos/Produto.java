@@ -13,7 +13,7 @@ import java.math.BigDecimal;
 public class Produto {
     private Integer codigo;
     private String nome;
-    private Double valor;
+    private String valor;
     private Integer qtd;
 
 }

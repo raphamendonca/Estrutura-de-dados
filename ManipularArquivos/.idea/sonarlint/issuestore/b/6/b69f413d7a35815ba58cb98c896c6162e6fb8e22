@@ -1,0 +1,25 @@
+
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¥¨Úåøÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(Ù²îúÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ÔôôŠÿÿÿÿÿ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(±Î ¬
+V	java:S125w"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+X
+java:S1128"BRemove this unused import 'org.apache.poi.ss.usermodel.CellStyle'.(î÷Üú
+I
+java:S1128	"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+O
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.(à€¼úÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼’¸¨ûÿÿÿÿ
+X
+java:S2184="BCast one of the operands of this division operation to a "double".(ÉÖµ»
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œì‰ùÿÿÿÿ
+e
+java:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(ĞÅ±Ìøÿÿÿÿ

@@ -1,0 +1,51 @@
+
+E
+java:S3740n"/Provide the parametrized type for this generic.(¿ˆæ‹
+E
+java:S3740n"/Provide the parametrized type for this generic.(¿ˆæ‹
+J
+java:S3740t"/Provide the parametrized type for this generic.(éå§ˇ˘ˇˇˇˇ
+F
+java:S3740ã"/Provide the parametrized type for this generic.(¿è°±
+M
+java:S3740ã"/Provide the parametrized type for this generic.(¿è°±8˜àÇÁÎ/
+d
+java:S1854t"BRemove this useless assignment to local variable "alunosIterator".(éå§ˇ˘ˇˇˇˇ8˛àÇÁÎ/
+O
+java:S1854>":Remove this useless assignment to local variable "nomesB".(¡Ôó
+S
+java:S18546">Remove this useless assignment to local variable "todosNomes".(∂Œ q
+V	java:S1251"<This block of commented-out lines of code should be removed.(±ŒË˚ˇˇˇˇ
+V	java:S1255"<This block of commented-out lines of code should be removed.(»´Ò«˙ˇˇˇˇ
+D
+java:S14816"/Remove this unused "todosNomes" local variable.(∂Œ q
+Q	java:S1258"<This block of commented-out lines of code should be removed.(—ßÏ°
+V	java:S125;"<This block of commented-out lines of code should be removed.(±ŒË˚ˇˇˇˇ
+V	java:S125="<This block of commented-out lines of code should be removed.(»´Ò«˙ˇˇˇˇ
+V	java:S125?"<This block of commented-out lines of code should be removed.(≈“º‘¯ˇˇˇˇ
+Q	java:S125A"<This block of commented-out lines of code should be removed.(–ÛÜ‘
+Q	java:S125L"<This block of commented-out lines of code should be removed.(ë‹„´
+Q	java:S125P"<This block of commented-out lines of code should be removed.(ïªˆ≠
+V	java:S125Y"<This block of commented-out lines of code should be removed.(ÎÃ»À¯ˇˇˇˇ
+V	java:S125^"<This block of commented-out lines of code should be removed.(º‹∑˛ˇˇˇˇ
+V	java:S125j"<This block of commented-out lines of code should be removed.(“Ú˘ø˛ˇˇˇˇ
+U
+java:S1481t"3Remove this unused "alunosIterator" local variable.(éå§ˇ˘ˇˇˇˇ8äâÇÁÎ/
+P	java:S125w"<This block of commented-out lines of code should be removed.(öÒ∫9
+V	java:S125"<This block of commented-out lines of code should be removed.(Å⁄àõ˚ˇˇˇˇ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(Í≥»Î
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(ÛÑ⁄˙
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(≈ìÑº˚ˇˇˇˇ
+N	java:S106î"9Replace this use of System.out or System.err by a logger.(äÔæ)
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(πﬂÄÔ˙ˇˇˇˇ
+l
+java:S1128"JRemove this unused import 'org.apache.commons.collections4.map.LinkedMap'.(ÑŒ”›ˇˇˇˇˇ8éâÇÁÎ/
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(Í§Ú√˘ˇˇˇˇ8éâÇÁÎ/
+U
+java:S1128
+"8Remove this unused import 'java.util.function.Function'.(ª≥Õû8éâÇÁÎ/
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ÔÕñ∂8éâÇÁÎ/
+_
+java:S1128"=Remove this unused import 'java.util.function.UnaryOperator'.(øÛÛõ¯ˇˇˇˇ8éâÇÁÎ/

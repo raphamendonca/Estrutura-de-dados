@@ -1,5 +1,26 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(©¯Š™
-S
-java:S1128"8Remove this unused import 'java.awt.desktop.FilesEvent'.(Ë„âûşÿÿÿÿ
+J
+java:S3740."/Provide the parametrized type for this generic.(§¨ôûÿÿÿÿ
+r
+java:S3008"WRename this field "PATH_ENTRADA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä†Á™úÿÿÿÿ
+p
+java:S3008"URename this field "PATH_SAIDA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·–‚µşÿÿÿÿ
+p
+java:S3008"URename this field "ENCODE_UTF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øŒ¿àÿÿÿÿÿ
+Y
+java:S1854'"CRemove this useless assignment to local variable "conteudoArquivo".(şñ¤€
+J
+java:S1481'"4Remove this unused "conteudoArquivo" local variable.(şñ¤€
+Q	java:S125("<This block of commented-out lines of code should be removed.(ğİõŠ
+R
+java:S14815"5Remove this unused "numeroTotalBytes" local variable.(‹¤8†şÅµí/
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(‡—Îÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ëâãóúÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(İÌ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(Õ¹ö¿
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(»âåõ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(°Ğ¥¦ùÿÿÿÿ
+P
+java:S4719b":Replace Charset.forName() call with StandardCharsets.UTF_8(–Ü´¬
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(ßÌÀÏúÿÿÿÿ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œì‰ùÿÿÿÿ

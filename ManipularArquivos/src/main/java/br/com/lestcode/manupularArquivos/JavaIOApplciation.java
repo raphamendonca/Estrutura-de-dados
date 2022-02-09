@@ -30,7 +30,7 @@ public class JavaIOApplciation {
             produtos.add(Produto.builder()
                             .codigo(Integer.parseInt(atributos.get(0)))
                             .nome(atributos.get(1))
-                            .valor(Double.parseDouble(atributos.get(2)))
+//                            .valor(Double.parseDouble(atributos.get(2)))
                             .qtd(Integer.parseInt(atributos.get(3)))
                             .build()
             );
@@ -51,13 +51,13 @@ public class JavaIOApplciation {
     private static void escreverArquivo(Set<String> listaCompra, String outputPath){
         try(BufferedWriter writer = new BufferedWriter(new FileWriter(outputPath))) {
             listaCompra.forEach( item -> {
-                        try {
-                            writer.append(item + "\n");
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        }
-                    }
-            );
+                try {
+                    writer.append(item);
+                    writer.newLine();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            });
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -81,6 +81,5 @@ public class JavaIOApplciation {
         }
         return listaCompra;
     }
-
 
 }
